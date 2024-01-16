@@ -24,10 +24,20 @@ Detaylandırılmış JS açıklama:
 
 6. **"Clear" Butonunu İşle:**
    - "Clear" butonuna tıklanınca çalışacak fonksiyon:
-      - `toDoContainer` içindeki `p` elementini kaldır. 
+      - `toDoContainer` içindeki `p` elementini kaldır.
+      - 
+## Nasıl Kullanılır
+1. `inputText` alanına yapılacak bir metin girin.
+2. "Add Todo" düğmesine tıklayarak yapılacakları ekleyin.
+3. Eklenen yapılacakları tıklayarak işaretleyin.
+4. Eklenen yapılacakları çift tıklayarak silin.
+5. "Clear Todo" düğmesine tıklayarak tüm yapılacakları temizleyin.
 
-
-# ToDo List Uygulaması
+## Özellikler
+- Yapılacaklar listesine eleman eklemek için "Add Todo" düğmesi.
+- Eklenen yapılacakları işaretlemek için tıklama özelliği.
+- Eklenen yapılacakları çift tıklayarak silme özelliği.
+- Tüm yapılacakları temizlemek için "Clear Todo" düğmesi.
 
 ## Değişkenler
 - `addToDoButton`: "Add" butonunu temsil eden HTML öğesi.
